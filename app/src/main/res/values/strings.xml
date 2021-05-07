@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dota 2 Teams</string>
+    <string name="dota_2_friend_id">Dota 2 Friend ID</string>
+    <string name="complete_profile">Complete Profile</string>
+    <string name="android">android</string>
+    <string name="signout">Signout</string>
+    <string name="waiting_in_queue">You are waiting in queue, the next team-allocation is at</string>
+</resources>
